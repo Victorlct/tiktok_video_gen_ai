@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1,
+        "tema": "Exploração espacial"
+    },
+    {
+        "id": 2,
+        "tema": "Criptomoedas"
+    },
+    {
+        "id": 3,
+        "tema": "Mitologia"
+    },
+    {
+        "id": 4,
+        "tema": "Tecnologias futurísticas"
+    },
+    {
+        "id": 5,
+        "tema": "Criaturas marinhas exóticas"
+    },
+    {
+        "id": 6,
+        "tema": "Arqueologia"
+    },
+    {
+        "id": 7,
+        "tema": "Fenômenos naturais extraordinários (auroras, tsunamis, etc.)"
+    },
+    {
+        "id": 8,
+        "tema": "Avanços médicos e científicos"
+    },
+    {
+        "id": 9,
+        "tema": "Inteligência artificial"
+    },
+    {
+        "id": 10,
+        "tema": "Mistérios históricos não resolvidos"
+    },
+    {
+        "id": 11,
+        "tema": "Teorias da conspiração populares"
+    },
+    {
+        "id": 12,
+        "tema": "O corpo humano"
+    },
+    {
+        "id": 13,
+        "tema": "Arquitetura extraordinária"
+    },
+    {
+        "id": 14,
+        "tema": "Civilizações antigas"
+    },
+    {
+        "id": 15,
+        "tema": "Animais (exóticos, inteligentes, etc.)"
+    },
+    {
+        "id": 16,
+        "tema": "Jogos de tabuleiro"
+    },
+    {
+        "id": 17,
+        "tema": "O espaço sideral"
+    },
+    {
+        "id": 18,
+        "tema": "Fenômenos sobrenaturais"
+    },
+    {
+        "id": 19,
+        "tema": "O universo"
+    },
+    {
+        "id": 20,
+        "tema": "Biografias de pessoas fascinantes"
+    },
+    {
+        "id": 21,
+        "tema": "Fenômenos climáticos extremos"
+    },
+    {
+        "id": 22,
+        "tema": "Invenções revolucionárias"
+    },
+    {
+        "id": 23,
+        "tema": "O cinema"
+    },
+    {
+        "id": 24,
+        "tema": "Tecnologias de ponta"
+    },
+    {
+        "id": 25,
+        "tema": "Histórias fascinantes de sobrevivência"
+    },
+    {
+        "id": 26,
+        "tema": "Alimentação e gastronomia"
+    },
+    {
+        "id": 27,
+        "tema": "Mitos e lendas urbanas"
+    },
+    {
+        "id": 28,
+        "tema": "Música"
+    },
+    {
+        "id": 29,
+        "tema": "Fenômenos psicológicos interessantes"
+    },
+    {
+        "id": 30,
+        "tema": "Esportes radicais"
+    },
+    {
+        "id": 31,
+        "tema": "História da moda e tendências"
+    },
+    {
+        "id": 32,
+        "tema": "O mundo digital"
+    },
+    {
+        "id": 33,
+        "tema": "Guerras pouco conhecidas"
+    },
+    {
+        "id": 34,
+        "tema": "A mente humana"
+    },
+    {
+        "id": 35,
+        "tema": "O universo dos quadrinhos"
+    },
+    {
+        "id": 36,
+        "tema": "Tesouros perdidos"
+    },
+    {
+        "id": 37,
+        "tema": "O mundo animal"
+    },
+    {
+        "id": 38,
+        "tema": "Grandes descobertas científicas"
+    },
+    {
+        "id": 39,
+        "tema": "O corpo humano"
+    },
+    {
+        "id": 40,
+        "tema": "Tecnologias antigas surpreendentes"
+    },
+    {
+        "id": 41,
+        "tema": "A cultura pop"
+    },
+    {
+        "id": 42,
+        "tema": "Histórias de crimes e investigações famosas"
+    },
+    {
+        "id": 43,
+        "tema": "O reino vegetal"
+    },
+    {
+        "id": 44,
+        "tema": "Fenômenos históricos misteriosos"
+    },
+    {
+        "id": 45,
+        "tema": "Transportes (carros, aviões, etc.)"
+    },
+    {
+        "id": 46,
+        "tema": "Lendas e mitos"
+    },
+    {
+        "id": 47,
+        "tema": "Artes marciais e suas curiosidades"
+    },
+    {
+        "id": 48,
+        "tema": "Festivais e celebrações ao redor do mundo"
+    },
+    {
+        "id": 49,
+        "tema": "Fenômenos paranormais e investigações sobrenaturais"
+    },
+    {
+        "id": 50,
+        "tema": "Tecnologias emergentes"
+    },
+    {
+        "id": 51,
+        "tema": "A mente animal"
+    },
+    {
+        "id": 52,
+        "tema": "Exploração submarina"
+    },
+    {
+        "id": 53,
+        "tema": "Mistérios do Triângulo das Bermudas"
+    },
+    {
+        "id": 54,
+        "tema": "A física quântica"
+    },
+    {
+        "id": 55,
+        "tema": "Histórias de epidemias e pandemias"
+    },
+    {
+        "id": 56,
+        "tema": "Fenômenos ópticos"
+    },
+    {
+        "id": 57,
+        "tema": "História da música clássica"
+    },
+    {
+        "id": 58,
+        "tema": "As maravilhas do mundo antigo"
+    },
+    {
+        "id": 59,
+        "tema": "A cultura hacker"
+    },
+    {
+        "id": 60,
+        "tema": "Grandes descobertas arqueológicas"
+    },
+    {
+        "id": 61,
+        "tema": "Mistérios da Antártida"
+    },
+    {
+        "id": 62,
+        "tema": "A mitologia nórdica"
+    },
+    {
+        "id": 63,
+        "tema": "Fenômenos de sincronicidade"
+    },
+    {
+        "id": 64,
+        "tema": "O mundo dos sonhos"
+    },
+    {
+        "id": 65,
+        "tema": "Tecnologias limpas e sustentáveis"
+    },
+    {
+        "id": 66,
+        "tema": "Histórias de grandes desastres naturais"
+    },
+    {
+        "id": 67,
+        "tema": "História do teatro"
+    },
+    {
+        "id": 68,
+        "tema": "Enigmas matemáticos famosos"
+    },
+    {
+        "id": 69,
+        "tema": "A vida selvagem africana"
+    },
+    {
+        "id": 70,
+        "tema": "História da fotografia"
+    },
+    {
+        "id": 71,
+        "tema": "A cultura do chá"
+    },
+    {
+        "id": 72,
+        "tema": "Avanços na medicina regenerativa"
+    },
+    {
+        "id": 73,
+        "tema": "Fenômenos meteorológicos extremos"
+    },
+    {
+        "id": 74,
+        "tema": "História da aviação"
+    },
+    {
+        "id": 75,
+        "tema": "Tecnologias de realidade virtual e aumentada"
+    },
+    {
+        "id": 76,
+        "tema": "História da medicina tradicional chinesa"
+    },
+    {
+        "id": 77,
+        "tema": "A filosofia oriental"
+    },
+    {
+        "id": 78,
+        "tema": "Mistérios das pirâmides do Egito"
+    },
+    {
+        "id": 79,
+        "tema": "A história da dança"
+    },
+    {
+        "id": 80,
+        "tema": "Grandes invenções acidentais"
+    },
+    {
+        "id": 81,
+        "tema": "A história das guerras mundiais"
+    },
+    {
+        "id": 82,
+        "tema": "Aventuras e explorações polar"
+    },
+    {
+        "id": 83,
+        "tema": "Fenômenos de hibernação e criogenia"
+    },
+    {
+        "id": 84,
+        "tema": "As maravilhas do mundo moderno"
+    },
+    {
+        "id": 85,
+        "tema": "História da indústria cinematográfica"
+    },
+    {
+        "id": 86,
+        "tema": "A história da escrita"
+    },
+    {
+        "id": 87,
+        "tema": "Tecnologias de transporte do futuro"
+    },
+    {
+        "id": 88,
+        "tema": "A arquitetura gótica"
+    },
+    {
+        "id": 89,
+        "tema": "Fenômenos de biofluorescência"
+    },
+    {
+        "id": 90,
+        "tema": "A cultura do vinho"
+    },
+    {
+        "id": 91,
+        "tema": "Histórias de grandes fortunas perdidas"
+    },
+    {
+        "id": 92,
+        "tema": "A história da moda praia"
+    },
+    {
+        "id": 93,
+        "tema": "Mitos e lendas da América Latina"
+    },
+    {
+        "id": 94,
+        "tema": "A engenharia genética"
+    },
+    {
+        "id": 95,
+        "tema": "Fenômenos de biomimética na tecnologia"
+    },
+    {
+        "id": 96,
+        "tema": "A história das epidemias"
+    },
+    {
+        "id": 97,
+        "tema": "Histórias de grandes aventuras na selva"
+    },
+    {
+        "id": 98,
+        "tema": "A evolução das línguas"
+    },
+    {
+        "id": 99,
+        "tema": "Fenômenos de criptomnésia e deja vu"
+    },
+    {
+        "id": 100,
+        "tema": "A história do circo"
+    },
+    {
+        "id": 101,
+        "tema": "História das grandes expedições científicas"
+    },
+    {
+        "id": 102,
+        "tema": "A robótica assistiva"
+    },
+    {
+        "id": 103,
+        "tema": "História da música pop"
+    },
+    {
+        "id": 104,
+        "tema": "Filmes clássicos"
+    },
+    {
+        "id": 105,
+        "tema": "Grandes civilizações antigas"
+    },
+    {
+        "id": 106,
+        "tema": "Conflitos históricos mundiais"
+    },
+    {
+        "id": 107,
+        "tema": "Lendas e mitos de diferentes culturas"
+    },
+    {
+        "id": 108,
+        "tema": "Os oceanos"
+    },
+    {
+        "id": 109,
+        "tema": "Erros de gravação em filmes famosos"
+    },
+    {
+        "id": 110,
+        "tema": "Richas e rivalidades no mundo dos esportes"
+    },
+    {
+        "id": 111,
+        "tema": "A história do futebol brasileiro"
+    },
+    {
+        "id": 112,
+        "tema": "Mitos e lendas da mitologia grega"
+    },
+    {
+        "id": 113,
+        "tema": "Avanços tecnológicos que mudaram o mundo"
+    },
+    {
+        "id": 114,
+        "tema": "A história da humanidade"
+    },
+    {
+        "id": 115,
+        "tema": "Grandes descobertas arqueológicas"
+    },
+    {
+        "id": 116,
+        "tema": "Conflitos religiosos ao longo da história"
+    },
+    {
+        "id": 117,
+        "tema": "O fauna marinha"
+    },
+    {
+        "id": 118,
+        "tema": "Momentos históricos que mudaram o curso da humanidade"
+    },
+    {
+        "id": 119,
+        "tema": "As guerras mundiais"
+    },
+    {
+        "id": 120,
+        "tema": "Heróis e vilões da história mundial"
+    },
+    {
+        "id": 121,
+        "tema": "A música clássica"
+    },
+    {
+        "id": 122,
+        "tema": "Mistérios não resolvidos da história"
+    },
+    {
+        "id": 123,
+        "tema": "A cultura egípcia antiga"
+    },
+    {
+        "id": 124,
+        "tema": "História dos grandes impérios"
+    },
+    {
+        "id": 125,
+        "tema": "A história da arte"
+    },
+    {
+        "id": 126,
+        "tema": "Mitos e lendas da cultura nórdica"
+    },
+    {
+        "id": 127,
+        "tema": "As grandes navegações"
+    },
+    {
+        "id": 128,
+        "tema": "Tecnologias que revolucionaram a indústria"
+    },
+    {
+        "id": 129,
+        "tema": "A história da medicina"
+    },
+    {
+        "id": 130,
+        "tema": "Grandes avanços científicos ao longo do tempo"
+    },
+    {
+        "id": 131,
+        "tema": "A cultura japonesa tradicional"
+    },
+    {
+        "id": 132,
+        "tema": "Mistérios do universo e do espaço sideral"
+    },
+    {
+        "id": 133,
+        "tema": "A história da China antiga"
+    },
+    {
+        "id": 134,
+        "tema": "Eventos históricos que moldaram a sociedade atual"
+    },
+    {
+        "id": 135,
+        "tema": "A história da Grécia Antiga"
+    },
+    {
+        "id": 136,
+        "tema": "A história das grandes religiões"
+    },
+    {
+        "id": 137,
+        "tema": "Descobertas geográficas que mudaram o mundo"
+    },
+    {
+        "id": 138,
+        "tema": "A mitologia egípcia"
+    },
+    {
+        "id": 139,
+        "tema": "Conflitos étnicos ao redor do mundo"
+    },
+    {
+        "id": 140,
+        "tema": "A história da moda"
+    },
+    {
+        "id": 141,
+        "tema": "Avanços médicos que salvaram milhões de vidas"
+    },
+    {
+        "id": 142,
+        "tema": "A história da literatura mundial"
+    },
+    {
+        "id": 143,
+        "tema": "Mistérios da Antiguidade que intrigam os historiadores"
+    },
+    {
+        "id": 144,
+        "tema": "As grandes pirâmides do mundo"
+    },
+    {
+        "id": 145,
+        "tema": "A história da fotografia"
+    },
+    {
+        "id": 146,
+        "tema": "Invenções que transformaram a vida cotidiana"
+    },
+    {
+        "id": 147,
+        "tema": "A história da filosofia"
+    },
+    {
+        "id": 148,
+        "tema": "Grandes líderes políticos e seus legados"
+    },
+    {
+        "id": 149,
+        "tema": "A história dos videogames"
+    },
+    {
+        "id": 150,
+        "tema": "Mitos e lendas da cultura chinesa"
+    },
+    {
+        "id": 151,
+        "tema": "A história da música clássica"
+    },
+    {
+        "id": 152,
+        "tema": "Grandes eventos esportivos ao longo da história"
+    },
+    {
+        "id": 153,
+        "tema": "A história das guerras napoleônicas"
+    },
+    {
+        "id": 154,
+        "tema": "Mistérios da civilização maia"
+    },
+    {
+        "id": 155,
+        "tema": "A história da dança ao redor do mundo"
+    },
+    {
+        "id": 156,
+        "tema": "Avanços tecnológicos na área da inteligência artificial"
+    },
+    {
+        "id": 157,
+        "tema": "A história da exploração espacial"
+    },
+    {
+        "id": 158,
+        "tema": "Grandes líderes revolucionários e seus impactos"
+    },
+    {
+        "id": 159,
+        "tema": "A história da culinária mundial"
+    },
+    {
+        "id": 160,
+        "tema": "Mitos e lendas da cultura africana"
+    },
+    {
+        "id": 161,
+        "tema": "Conflitos étnicos e territoriais contemporâneos"
+    },
+    {
+        "id": 162,
+        "tema": "A história das grandes epidemias"
+    },
+    {
+        "id": 163,
+        "tema": "Descobertas arqueológicas recentes"
+    },
+    {
+        "id": 164,
+        "tema": "A história das grandes migrações humanas"
+    },
+    {
+        "id": 165,
+        "tema": "Tecnologias emergentes no campo da medicina"
+    },
+    {
+        "id": 166,
+        "tema": "A história das grandes invenções"
+    },
+    {
+        "id": 167,
+        "tema": "Grandes obras literárias que marcaram época"
+    },
+    {
+        "id": 168,
+        "tema": "A história da escultura"
+    },
+    {
+        "id": 169,
+        "tema": "Mitos e lendas da cultura indígena americana"
+    },
+    {
+        "id": 170,
+        "tema": "A história da aviação comercial"
+    },
+    {
+        "id": 171,
+        "tema": "Avanços na área da energia renovável"
+    },
+    {
+        "id": 172,
+        "tema": "A história da televisão"
+    },
+    {
+        "id": 173,
+        "tema": "Grandes obras de arte que marcaram época"
+    },
+    {
+        "id": 174,
+        "tema": "A história da psicologia"
+    },
+    {
+        "id": 175,
+        "tema": "Mitos e lendas da cultura japonesa"
+    },
+    {
+        "id": 176,
+        "tema": "A história da indústria automobilística"
+    },
+    {
+        "id": 177,
+        "tema": "Tecnologias de realidade aumentada e seus usos"
+    },
+    {
+        "id": 178,
+        "tema": "A história da moda ao longo dos séculos"
+    },
+    {
+        "id": 179,
+        "tema": "Grandes feitos da engenharia moderna"
+    },
+    {
+        "id": 180,
+        "tema": "A história da medicina veterinária"
+    },
+    {
+        "id": 181,
+        "tema": "Avanços na área da neurociência e seus impactos"
+    },
+    {
+        "id": 182,
+        "tema": "A história das grandes cidades do mundo"
+    },
+    {
+        "id": 183,
+        "tema": "Mitos e lendas da cultura eslava"
+    },
+    {
+        "id": 184,
+        "tema": "A história da música eletrônica"
+    },
+    {
+        "id": 185,
+        "tema": "Grandes momentos da história da humanidade"
+    },
+    {
+        "id": 186,
+        "tema": "A história da educação no mundo"
+    },
+    {
+        "id": 187,
+        "tema": "Tecnologias de comunicação e sua evolução"
+    },
+    {
+        "id": 188,
+        "tema": "A história do teatro mundial"
+    },
+    {
+        "id": 189,
+        "tema": "Fenômenos geológicos e sua influência na história"
+    },
+    {
+        "id": 190,
+        "tema": "A história da fotografia digital"
+    },
+    {
+        "id": 191,
+        "tema": "Grandes descobertas astronômicas"
+    },
+    {
+        "id": 192,
+        "tema": "A história do desenvolvimento urbano"
+    },
+    {
+        "id": 193,
+        "tema": "Mitos e lendas da cultura aborígene australiana"
+    },
+    {
+        "id": 194,
+        "tema": "A história da construção de monumentos"
+    },
+    {
+        "id": 195,
+        "tema": "Conflitos territoriais e geopolíticos contemporâneos"
+    },
+    {
+        "id": 196,
+        "tema": "A história das grandes navegações"
+    },
+    {
+        "id": 197,
+        "tema": "Avanços na área da energia renovável"
+    },
+    {
+        "id": 198,
+        "tema": "A história da televisão"
+    },
+    {
+        "id": 199,
+        "tema": "Grandes obras de arte que marcaram época"
+    },
+    {
+        "id": 200,
+        "tema": "A história da psicologia"
+    }
+]
